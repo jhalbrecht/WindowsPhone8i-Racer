@@ -29,3 +29,34 @@ C:\Users\Jeff\Documents\Visual Studio 2012\Projects\EightRacer\EightRacer\Bin\De
 C:\Users\Jeff\Documents\Visual Studio 2012\Projects\EightRacer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
 C:\Users\Jeff\Documents\Visual Studio 2012\Projects\EightRacer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Net.dll
 C:\Users\Jeff\Documents\Visual Studio 2012\Projects\EightRacer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\EightRacer.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\EightRacer.pdb
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\AppManifest.xaml
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\EightRacer_Debug_AnyCPU.xap
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Audio.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Net.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Coding4Fun.Toolkit.Storage.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\GalaSoft.MvvmLight.WP71.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\GalaSoft.MvvmLight.WP71.xml
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\GalaSoft.MvvmLight.Extras.WP71.xml
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\EightRacer.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\App.g.cs
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\MainPage.g.cs
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\EightRacer.g.resources
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\EightRacer.Resources.AppResources.resources
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\EightRacer.csproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\EightRacer.dll
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\EightRacer.pdb
+C:\Users\Jeff\Documents\GitHub\WindowsPhone8i-Racer\EightRacer\obj\Debug\XapCacheFile.xml
