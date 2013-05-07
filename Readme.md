@@ -9,3 +9,4 @@ Simply pair your Bluetooth equipped phone with the Dagu i-Racer, launch i-Racer 
 Short [video] (http://www.youtube.com/watch?feature=player_detailpage&v=vOurGKLlLZY) of it in operation.
 
 
+The i-Racer [app] (http://rodaw.me/15xmYE2) is availble in the windowsphone.com marketplace.
